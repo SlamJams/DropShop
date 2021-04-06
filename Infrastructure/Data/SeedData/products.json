@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "Nike Shirt Prem",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a scelerisque leo. Suspendisse ullamcorper sapien sit amet rhoncus molestie. Etiam.",
+    "Price": 170,
+    "PictureUrl": "images/products/shirt-nik2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "UnderArmour Soccer Shoes",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget erat lectus. Vestibulum et condimentum magna. Donec maximus, quam a.",
+    "Price": 149.99,
+    "PictureUrl": "images/products/shoe-ua1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Adidas Red Sneakers",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus turpis at ligula ornare vestibulum. In sed nunc et neque.",
+    "Price": 179.99,
+    "PictureUrl": "images/products/shoe-adi2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Adidas Shirt Cool Fit",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget erat lectus. Vestibulum et condimentum magna. Donec maximus, quam a.",
+    "Price": 180,
+    "PictureUrl": "images/products/shirt-adi1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Converse Entry Shirt",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec libero tortor, laoreet ac tortor eu, convallis dignissim turpis. Duis ultrices.",
+    "Price": 199,
+    "PictureUrl": "images/products/shirt-con1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Nike Shirt Basic",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus turpis at ligula ornare vestibulum. In sed nunc et neque.",
+    "Price": 100,
+    "PictureUrl": "images/products/shirt-nik1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Puma Shirt Basic",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus turpis at ligula ornare vestibulum. In sed nunc et neque.",
+    "Price": 80,
+    "PictureUrl": "images/products/shirt-pum1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Adidas Blue Pants",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia quam nec nisl interdum interdum. Nunc eget nunc lacinia, efficitur.",
+    "Price": 50,
+    "PictureUrl": "images/products/hat-adi1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Puma Green Pants",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget erat lectus. Vestibulum et condimentum magna. Donec maximus, quam a.",
+    "Price": 70,
+    "PictureUrl": "images/products/hat-pum1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Puma Shorts",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia quam nec nisl interdum interdum. Nunc eget nunc lacinia, efficitur.",
+    "Price": 50,
+    "PictureUrl": "images/products/hat-pum2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Vans Basic Hat",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a scelerisque leo. Suspendisse ullamcorper sapien sit amet rhoncus molestie. Etiam.",
+    "Price": 30,
+    "PictureUrl": "images/products/hat-van1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Vans Prem Hat",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum tortor eu commodo ultrices. Curabitur viverra tellus arcu, sit amet.",
+    "Price": 30,
+    "PictureUrl": "images/products/hat-van2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Puma Basic Hat",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi sapien, tincidunt quis odio ut, auctor tincidunt mauris. Mauris sed.",
+    "Price": 20,
+    "PictureUrl": "images/products/hat-pum1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Puma Prem Hat",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum tortor eu commodo ultrices. Curabitur viverra tellus arcu, sit amet.",
+    "Price": 60,
+    "PictureUrl": "images/products/hat-pum2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Adidas Ultraboost Sneakers",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum tortor eu commodo ultrices. Curabitur viverra tellus arcu, sit amet.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/shoe-adi1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Nike Air Jordans",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec libero tortor, laoreet ac tortor eu, convallis dignissim turpis. Duis ultrices.",
+    "Price": 180,
+    "PictureUrl": "images/products/shoe-nik2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Nike AirMaxs",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget erat lectus. Vestibulum et condimentum magna. Donec maximus, quam a.",
+    "Price": 190,
+    "PictureUrl": "images/products/shoe-nik1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Adidas Shirt Special",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum tortor eu commodo ultrices. Curabitur viverra tellus arcu, sit amet.",
+    "Price": 300,
+    "PictureUrl": "images/products/shirt-adi2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Adidas Shirt Limited",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum tortor eu commodo ultrices. Curabitur viverra tellus arcu, sit amet.",
+    "Price": 200,
+    "PictureUrl": "images/products/shirt-adi3.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Adidas Shirt CoolFit",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum tortor eu commodo ultrices. Curabitur viverra tellus arcu, sit amet.",
+    "Price": 80,
+    "PictureUrl": "images/products/shirt-adi4.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  }
+]

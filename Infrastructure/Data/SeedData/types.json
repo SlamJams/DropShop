@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Shirts"
+  },
+  {
+    "Id": 2,
+    "Name": "Pants"
+  },
+  {
+    "Id": 3,
+    "Name": "Shoes"
+  },
+  {
+    "Id": 4,
+    "Name": "Hats"
+  }
+]
