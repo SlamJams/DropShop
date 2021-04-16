@@ -59,7 +59,7 @@
     "Name": "Adidas Blue Pants",
     "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia quam nec nisl interdum interdum. Nunc eget nunc lacinia, efficitur.",
     "Price": 50,
-    "PictureUrl": "images/products/hat-adi1.png",
+    "PictureUrl": "images/products/pants-adi1.png",
     "ProductTypeId": 2,
     "ProductBrandId": 2
   },
@@ -67,7 +67,7 @@
     "Name": "Puma Green Pants",
     "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget erat lectus. Vestibulum et condimentum magna. Donec maximus, quam a.",
     "Price": 70,
-    "PictureUrl": "images/products/hat-pum1.png",
+    "PictureUrl": "images/products/pants-pum1.png",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
@@ -75,7 +75,7 @@
     "Name": "Puma Shorts",
     "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia quam nec nisl interdum interdum. Nunc eget nunc lacinia, efficitur.",
     "Price": 50,
-    "PictureUrl": "images/products/hat-pum2.png",
+    "PictureUrl": "images/products/pants-pum2.png",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
